@@ -1,16 +1,34 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on
+Building Data Analysis projects using Python, SQL, and Power BI
+Creating dashboards and real-world datasets for portfolio
+👯 I’m looking to collaborate on
+Data analysis and visualization projects
+Open-source datasets and dashboard development
+🤝 I’m looking for help with
+Improving advanced SQL and Python skills
+Real-time industry projects and best practices
+🌱 I’m currently learning
+Advanced Power BI & DAX
+Python libraries (Pandas, NumPy, Matplotlib)
+Data cleaning & storytelling techniques
+💬 Ask me about
+Data Analysis basics
+Power BI dashboards
+SQL queries & data cleaning
+⚡ Fun fact
+I enjoy turning raw data into meaningful insights 📊
 
-<!--
-**Darshan121006/Darshan121006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+[LinkedIn](https://linkedin.com/in/Darshan C Malagi) email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Python MicrosoftSQLServer MySQL Power Bi NumPy Matplotlib MicrosoftSQLServer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+🔝 Top Contributed Repo
