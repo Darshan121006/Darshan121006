@@ -23,7 +23,7 @@ I enjoy turning raw data into meaningful insights 📊
 [LinkedIn](https://linkedin.com/in/Darshan C Malagi) email
 
 💻 Tech Stack:
-Python MicrosoftSQLServer MySQL Power Bi NumPy Matplotlib MicrosoftSQLServer Excel
+Python MicrosoftSQLServer MySQL Power Bi NumPy Matplotlib MicrosoftSQLServer
 
 ## 📊 GitHub Stats
 
