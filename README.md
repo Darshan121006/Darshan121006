@@ -25,10 +25,10 @@ I enjoy turning raw data into meaningful insights 📊
 💻 Tech Stack:
 Python MicrosoftSQLServer MySQL Power Bi NumPy Matplotlib MicrosoftSQLServer Excel
 
-📊 GitHub Stats:
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan121006&show_icons=true&theme=radical)
 
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan121006&layout=compact&theme=radical)
 
 🔝 Top Contributed Repo
